@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085450104661",
+    "project_id": "pushnewproject-56cbb",
+    "storage_bucket": "pushnewproject-56cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085450104661:android:74f9b81c89e1a3e5fec9dc",
+        "android_client_info": {
+          "package_name": "com.boringNot.nickplush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085450104661-vqltj3m8gld6apm1s6tvbutuql38m76d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirAF7-0Vlh7f397Q8RlF8n3B2hWJ_zjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085450104661-vqltj3m8gld6apm1s6tvbutuql38m76d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085450104661-26r87tn969tbh43u796pe2g9tgb4vgpu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boringNot.nickplush"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
